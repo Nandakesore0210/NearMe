@@ -63,7 +63,7 @@ Execute the programs and publish them.
 ```
 ## OUTPUT
 
-![map](https://github.com/Nandakesore0210/NearMe/assets/149365088/91c8ba78-bc41-4d8a-9a7c-2c022f785a1f)
+![Screenshot (4)](https://github.com/Nandakesore0210/NearMe/assets/149365088/38595bd9-bd16-45e2-8329-2182855da5eb)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
